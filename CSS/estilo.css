@@ -17,15 +17,7 @@ header{
     justify-content: center;
 }
 
-#Nome{
-    /* background-color: #4f678b; */
-    width: 800px;
-    height: 40px;
-    border-radius: 50px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #143f77;  
-    text-align: center;
-}
+
 
 nav{
     /* background-color: rgb(255, 0, 0); */
@@ -33,6 +25,7 @@ nav{
     height: 40px;
     border-radius: 50px;
     text-align: center;
+    padding: 20px 0 0 0;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
     color: #fff7f7;
@@ -87,7 +80,7 @@ a:active{
 #ContainerSobre{
     background-color: black;
     width: 800px;
-    height:400px ;
+    height:700px ;
     margin: auto;
     display: flex;
 }
@@ -112,10 +105,11 @@ a:active{
     color: #fff7f7;
 }
 
-#ajTitle{
-    text-align: center;
-    color: #ffd984;
-
+#QseTitle{
+    background-color:black ;
+    width: 200px;
+    height: 50px;
+    margin: 20px 5px 0 15px;
 }
 
 
